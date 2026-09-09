@@ -1,0 +1,6 @@
+{
+  "name": "DocasFlow - Gestão Inteligente de Docas",
+  "description": "Sistema full-stack para gestão de 14 docas, controle de fila e portaria, KPIs operacionais, relatórios para impressão e sincronização em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
